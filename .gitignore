@@ -1,6 +1,6 @@
 serviceaccount.json
 serviceaccount.local.json
-firebaseConfig.js
+firebaseconfig.js
 .env
 .env.*
 !.env.example
