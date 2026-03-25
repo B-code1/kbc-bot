@@ -1,0 +1,14 @@
+2026/03/24-17:00:02.902 7ce8 Reusing MANIFEST C:\Users\Administrator\kbc-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/24-17:00:02.905 7ce8 Recovering log #747
+2026/03/24-17:00:03.056 7ce8 Reusing old log C:\Users\Administrator\kbc-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000747.log 
+2026/03/24-17:01:16.615 7840 Level-0 table #753: started
+2026/03/24-17:01:16.677 7840 Level-0 table #753: 1486886 bytes OK
+2026/03/24-17:01:16.680 7840 Delete type=0 #747
+2026/03/24-17:01:16.968 7840 Compacting 1@1 + 2@2 files
+2026/03/24-17:01:17.372 7840 Generated table #754@1: 62508 keys, 2242122 bytes
+2026/03/24-17:01:17.466 7840 Generated table #755@1: 35127 keys, 1868338 bytes
+2026/03/24-17:01:17.466 7840 Compacted 1@1 + 2@2 files => 4110460 bytes
+2026/03/24-17:01:17.467 7840 compacted to: files[ 0 0 2 0 0 0 0 ]
+2026/03/24-17:01:17.468 7840 Delete type=2 #749
+2026/03/24-17:01:17.468 7840 Delete type=2 #750
+2026/03/24-17:01:17.468 7840 Delete type=2 #753

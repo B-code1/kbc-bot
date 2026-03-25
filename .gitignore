@@ -1,0 +1,7 @@
+serviceaccount.json
+serviceaccount.local.json
+firebaseConfig.js
+.env
+.env.*
+!.env.example
+dashboard-config.local.js
