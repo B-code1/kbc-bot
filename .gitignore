@@ -6,3 +6,4 @@ firebaseconfig.js
 !.env.example
 dashboard-config.local.jsserviceaccount.json
 dashboard-config.local.js
+firebaseconfig.ts
